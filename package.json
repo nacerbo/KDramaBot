@@ -1,0 +1,27 @@
+{
+  "name": "kdramabot",
+  "version": "0.0.1",
+  "description": "A bot that suggest a kdrama for a facebook user",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nacerbo/KDramaBot.git"
+  },
+  "keywords": [
+    "bot",
+    "facebook",
+    "messenger",
+    "bot",
+    "messenger",
+    "bot"
+  ],
+  "author": "Abderrahmane Naceur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nacerbo/KDramaBot/issues"
+  },
+  "homepage": "https://github.com/nacerbo/KDramaBot#readme"
+}
